@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "91f0e6fb669a5643",
+    "type": "split",
+    "children": [
+      {
+        "id": "b92cc46cdb44cc7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f73b8ccba1ba28b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86f39d02f96cfa77",
+    "type": "split",
+    "children": [
+      {
+        "id": "7982e72d560abfb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11386e95d93a4829",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c75cbb8cf8ce1276",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9886c919cfaa9608",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "103f17ce29e800c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b2d8656b5380ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f12a34260f36535",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bf0609a6a2de2e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3187c174acb0ced3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "795fe87095e2f504",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "11386e95d93a4829",
+  "lastOpenFiles": [
+    "Owasp top 10.md",
+    "Suhesh Respect Rankings 2023.md",
+    "Regular Expression.md"
+  ]
+}
